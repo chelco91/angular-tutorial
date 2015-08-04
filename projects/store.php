@@ -39,7 +39,10 @@
 		<script type="text/javascript" src="../lib/angular/tutorial-store.js"></script>
 
 		<!-- Page Title -->
-		<title>My Project(s) With Angular.js</title>
+		<title>Store Tutorial With Angular.js</title>
 	</head>
 
 	<body>
+
+	</body>
+</html>
